@@ -1,1 +1,2 @@
-# Math387Lab2
+#[McGill University] MATH387 Honours Numerical Analysis
+Second Lab
